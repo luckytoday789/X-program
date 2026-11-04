@@ -1,0 +1,45 @@
+{
+  "authorization": "用户本轮明确要求删除多余备份",
+  "formal_hashes_and_archive_crc_verified": true,
+  "preserved_backup": "E:\\x_program\\Platform\\备份\\池沿去凸与补色前_20261104",
+  "original_baseline_preserved": "E:\\x_program\\Platform\\Platform",
+  "to_delete": [
+    {
+      "path": "E:\\x_program\\Platform\\备份\\斜坡恢复前_20261104",
+      "files": 10,
+      "bytes": 513408732
+    },
+    {
+      "path": "E:\\x_program\\Platform\\备份\\正式局部池沿更新前_20261104",
+      "files": 3,
+      "bytes": 360144585
+    },
+    {
+      "path": "E:\\x_program\\Platform\\备份\\水体重做前_20261031",
+      "files": 6,
+      "bytes": 260291324
+    },
+    {
+      "path": "E:\\x_program\\Platform\\备份\\泳池精修前_20261030",
+      "files": 13,
+      "bytes": 513307034
+    },
+    {
+      "path": "E:\\x_program\\Platform\\备份\\物理更新前_20261029_151423",
+      "files": 10,
+      "bytes": 264526850
+    },
+    {
+      "path": "E:\\x_program\\Platform\\备份\\第三轮修改前_20261021_225851",
+      "files": 7,
+      "bytes": 513537686
+    },
+    {
+      "path": "E:\\x_program\\Platform\\备份\\第二轮修改前_20261021_214512",
+      "files": 7,
+      "bytes": 416368486
+    }
+  ],
+  "total_bytes": 2841584697,
+  "status": "deleted"
+}
