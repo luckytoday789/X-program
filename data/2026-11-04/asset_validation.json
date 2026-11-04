@@ -1,0 +1,75 @@
+{
+  "passed": true,
+  "approved_version": "v5",
+  "entries": {
+    "Platform.final.usd": {
+      "composition_errors": 0,
+      "tiles": 14,
+      "collision_meshes": 11,
+      "collision_triangles": 533939,
+      "five_capsule_vents": 5,
+      "asset_files": 532,
+      "all_asset_paths_internal": true,
+      "water_triangles": 17385,
+      "meters_per_unit": 1,
+      "up_axis": "Z"
+    },
+    "Platform_black_water.usda": {
+      "composition_errors": 0,
+      "tiles": 14,
+      "collision_meshes": 11,
+      "collision_triangles": 533939,
+      "five_capsule_vents": 5,
+      "asset_files": 532,
+      "all_asset_paths_internal": true,
+      "water_triangles": 17385,
+      "meters_per_unit": 1,
+      "up_axis": "Z"
+    }
+  },
+  "unchanged_other_usd_files": 17,
+  "updated": {
+    "blender/Platform_complete.blend": "1c94abafa4d8bfb56b912cf1ae7604bf2a84184fd318b90b5620ad87ee7ff2fc",
+    "visual/source/Tile_3_updated/Tile_3.fixed.usd": "4a1b29b58a94f9f4bef0708108e3065efcb01a33c939a9026fd00e1ccbf37ce1",
+    "Platform_collision.usd": "d988e1771f5915d730382c6fb002dcf8a67f0ed49bff26b39be4488aee4f8e5f"
+  },
+  "water_unchanged": true,
+  "blender_default_scene": "Platform_Preview",
+  "collision_non_pool_groups_unchanged": 9,
+  "archive": {
+    "zip": "E:\\x_program\\Platform\\Platform(new3).zip",
+    "bytes": 431849012,
+    "updated_entries": [
+      "visual/source/Tile_3_updated/Tile_3.fixed.usd",
+      "Platform_collision.usd",
+      "PHYSICS_UPDATE.md",
+      "更新说明_20261104_池沿修整.md",
+      "更新说明_20261104_局部池沿与五长孔.md",
+      "验证记录_20261104_局部池沿/validation.json",
+      "验证记录_20261104_局部池沿/Platform_collision.sync.json",
+      "验证记录_20261104_局部池沿/06_统一长孔_v5.png",
+      "验证记录_20261104_局部池沿/更新说明.md"
+    ],
+    "unchanged_entries_checked": 855,
+    "crc_all_passed": true,
+    "entry_hashes_passed": true
+  },
+  "unpacked_verification": {
+    "Platform.final.usd": {
+      "passed": true,
+      "tiles": 14,
+      "textures": 532,
+      "collision_meshes": 11,
+      "five_long_vents": true,
+      "all_dependencies_inside_extracted_archive": true
+    },
+    "Platform_black_water.usda": {
+      "passed": true,
+      "tiles": 14,
+      "textures": 532,
+      "collision_meshes": 11,
+      "five_long_vents": true,
+      "all_dependencies_inside_extracted_archive": true
+    }
+  }
+}
